@@ -19,7 +19,7 @@ attrs = ">=24.2.0"
 pendulum = ">=1.2.0"
 realit-singer-python = ">=5.0.0"
 # pymssql==2.2.8 broken: https://github.com/pymssql/pymssql/issues/833
-pymssql = "2.1.4"
+pymssql = "2.2.7"
 backoff = ">=1.8.0"
 cryptography = "37.0.4"
 
